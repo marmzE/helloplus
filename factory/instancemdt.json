@@ -1,0 +1,9 @@
+{
+	"name": "instancemdt",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f837ec7-29eb-4f48-bde0-687c2e655d91",
+		"tenantId": "a2ca05f2-0d1c-4f8d-9668-2e3011409181"
+	}
+}
